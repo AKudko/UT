@@ -1,0 +1,20 @@
+Method checkTriangle()
+	-one of sides <= 0
+	-summ of two sides <= third side
+	-sides > 0
+	-summ of two sides > third side
+	-message match to conditions
+
+Method detectTriangle()
+	-if triangle is odinary - returns 0
+	-if the triangle is only of one type - returns 1,2,4,8
+	-if the triangle is of some types - returns different from 1,2,4,8
+	
+Method getMessage()
+	-if none of conditions are not true - message is an empty string
+	
+Method  getSquare()
+	-asserting square matches expected square
+
+
+	
